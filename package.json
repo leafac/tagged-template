@@ -1,6 +1,6 @@
 {
   "name": "@leafac/tagged-template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Radically Straightforward Tagged Templates",
   "keywords": [
     "tagged template"
