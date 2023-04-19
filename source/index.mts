@@ -16,7 +16,7 @@ export default function tag(
     else output += substitution;
   }
 
-  output += templateStrings[templateStrings.length - 1];
+  output += templateStrings.at(-1);
 
   return output;
 }
