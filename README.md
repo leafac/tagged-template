@@ -1,7 +1,1 @@
-# ⚠️ WORK IN PROGRESS ⚠️
-
-<!--
-- Differences between `@leafac/tagged-template` and `tagged-template-noop`
-  - Type only accepts `string` or `string[]` in substitutions
-  - `string[]` are `.join("")`ed
--->
+**Migrated to https://github.com/radically-straightforward/radically-straightforward (`css`, because it wasn’t used anywhere else)**
